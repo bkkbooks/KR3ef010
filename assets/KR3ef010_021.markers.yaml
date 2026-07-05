@@ -399,7 +399,6 @@ markers:
   - {type: 'tls:seg-start', offset: 752, content: '', id: KR3ef010_jc_021-d24.p32s8, seg_type: comm, member_ids: [KR3ef010_jc_021-d24.p32s8]}
   - {type: 'tls:seg', offset: 752, content: '', id: KR3ef010_jc_021-d24.p32s8}
   - {type: punctuation, offset: 752, content: （, id: KR3ef010_jc_021-bkkpn171}
-  - {type: substitution, offset: 759, original: 秤, replacement: 稱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3901}}
   - {type: punctuation, offset: 760, content: ）, id: KR3ef010_jc_021-bkkpn172}
   - {type: 'tls:seg-end', offset: 760, content: '', id: KR3ef010_jc_021-d24.p32s8_end, seg_type: comm}
   - {type: xml-element, offset: 760, content: '', id: KR3ef010_jc_021-d24p32_end, name: p, role: close, attrs: {'xml:id': KR3ef010_jc_021-d24p32}}
@@ -762,7 +761,6 @@ markers:
   - {type: punctuation, offset: 1353, content: ）, id: KR3ef010_jc_021-bkkpn312}
   - {type: 'tls:seg-end', offset: 1353, content: '', id: KR3ef010_jc_021-d24.p82s5_end, seg_type: comm}
   - {type: 'tls:seg', offset: 1353, content: '', id: KR3ef010_jc_021-d24.p82s6}
-  - {type: substitution, offset: 1353, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4558}}
   - {type: 'tls:seg', offset: 1356, content: '', id: KR3ef010_jc_021-d24.p82s7}
   - {type: 'tls:seg-start', offset: 1359, content: '', id: KR3ef010_jc_021-d24.p82s8, seg_type: comm, member_ids: [KR3ef010_jc_021-d24.p82s8, KR3ef010_jc_021-d24.p82s9]}
   - {type: 'tls:seg', offset: 1359, content: '', id: KR3ef010_jc_021-d24.p82s8}
@@ -839,4 +837,4 @@ markers:
   - {type: punctuation, offset: 1495, content: 。, id: KR3ef010_jc_021-bkkpn342}
   - {type: xml-element, offset: 1495, content: '', id: KR3ef010_jc_021-d24p90_end, name: p, role: close, attrs: {'xml:id': KR3ef010_jc_021-d24p90}}
   back: []
-hash: sha256:f214842c90287ed0d0485780cea017a24f23f2ca7820e3d10241f0848f8e75af
+hash: sha256:d937b6f80ce603379f53cfeaef7dae3697e5cb1d406698547075b3c58d701b0b

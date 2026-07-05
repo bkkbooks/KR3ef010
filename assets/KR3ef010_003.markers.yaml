@@ -654,8 +654,6 @@ markers:
   - {type: 'tls:seg', offset: 1558, content: '', id: KR3ef010_jc_003-d6.p6s196}
   - {type: punctuation, offset: 1562, content: 。, id: KR3ef010_jc_003-bkkpn312}
   - {type: 'tls:seg', offset: 1562, content: '', id: KR3ef010_jc_003-d6.p6s197}
-  - {type: substitution, offset: 1562, original: 嘿, replacement: 默, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3906}}
-  - {type: substitution, offset: 1563, original: 嘿, replacement: 默, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3906}}
   - {type: punctuation, offset: 1568, content: 。, id: KR3ef010_jc_003-bkkpn313}
   - {type: 'tls:seg', offset: 1568, content: '', id: KR3ef010_jc_003-d6.p6s198}
   - {type: punctuation, offset: 1572, content: 。, id: KR3ef010_jc_003-bkkpn314}
@@ -942,7 +940,6 @@ markers:
   - {type: 'tls:seg', offset: 2121, content: '', id: KR3ef010_jc_003-d6.p10s45}
   - {type: punctuation, offset: 2124, content: 。, id: KR3ef010_jc_003-bkkpn448}
   - {type: 'tls:seg', offset: 2124, content: '', id: KR3ef010_jc_003-d6.p10s46}
-  - {type: substitution, offset: 2127, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: punctuation, offset: 2128, content: 。, id: KR3ef010_jc_003-bkkpn449}
   - {type: 'tls:seg', offset: 2128, content: '', id: KR3ef010_jc_003-d6.p10s47}
   - {type: punctuation, offset: 2136, content: 。, id: KR3ef010_jc_003-bkkpn450}
@@ -1809,4 +1806,4 @@ markers:
   - {type: punctuation, offset: 3967, content: 。, id: KR3ef010_jc_003-bkkpn861}
   - {type: xml-element, offset: 3967, content: '', id: KR3ef010_jc_003-d6p22_end, name: p, role: close, attrs: {'xml:id': KR3ef010_jc_003-d6p22}}
   back: []
-hash: sha256:d1fe834c76c64369222036ede91b91c74059d98a2b19964ce5d3d159142bfe02
+hash: sha256:da8841a8c1796a61c35a5643f35ce77bd27b12073739a4b9a2738616c739aadf
