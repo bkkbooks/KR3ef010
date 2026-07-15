@@ -654,6 +654,8 @@ markers:
   - {type: 'tls:seg', offset: 1558, content: '', id: KR3ef010_jc_003-d6.p6s196}
   - {type: punctuation, offset: 1562, content: 。, id: KR3ef010_jc_003-bkkpn312}
   - {type: 'tls:seg', offset: 1562, content: '', id: KR3ef010_jc_003-d6.p6s197}
+  - {type: substitution, offset: 1562, original: 嘿, replacement: 默, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20188}}
+  - {type: substitution, offset: 1563, original: 嘿, replacement: 默, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20188}}
   - {type: punctuation, offset: 1568, content: 。, id: KR3ef010_jc_003-bkkpn313}
   - {type: 'tls:seg', offset: 1568, content: '', id: KR3ef010_jc_003-d6.p6s198}
   - {type: punctuation, offset: 1572, content: 。, id: KR3ef010_jc_003-bkkpn314}
@@ -940,6 +942,7 @@ markers:
   - {type: 'tls:seg', offset: 2121, content: '', id: KR3ef010_jc_003-d6.p10s45}
   - {type: punctuation, offset: 2124, content: 。, id: KR3ef010_jc_003-bkkpn448}
   - {type: 'tls:seg', offset: 2124, content: '', id: KR3ef010_jc_003-d6.p10s46}
+  - {type: substitution, offset: 2127, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20732}}
   - {type: punctuation, offset: 2128, content: 。, id: KR3ef010_jc_003-bkkpn449}
   - {type: 'tls:seg', offset: 2128, content: '', id: KR3ef010_jc_003-d6.p10s47}
   - {type: punctuation, offset: 2136, content: 。, id: KR3ef010_jc_003-bkkpn450}
@@ -1806,4 +1809,4 @@ markers:
   - {type: punctuation, offset: 3967, content: 。, id: KR3ef010_jc_003-bkkpn861}
   - {type: xml-element, offset: 3967, content: '', id: KR3ef010_jc_003-d6p22_end, name: p, role: close, attrs: {'xml:id': KR3ef010_jc_003-d6p22}}
   back: []
-hash: sha256:da8841a8c1796a61c35a5643f35ce77bd27b12073739a4b9a2738616c739aadf
+hash: sha256:50aed3651d38bab587b9af1de184efa1f9bffce84043e95d15ca8343c0306a70
