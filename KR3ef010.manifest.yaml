@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef010_000.yaml, hash: 'sha256:c3a3e6e8e754d828d8abe26e706e5127e44b61aa433275dbf71e1b9be6a06c22'}
+  - {seq: 0, filename: KR3ef010_000.yaml, hash: 'sha256:4d983227732a6dddeaec033795da5d15d4c2d2bf86f2a219518efd7114a78fe3'}
   - {seq: 1, filename: KR3ef010_001.yaml, hash: 'sha256:9da39e60f127db6092ec726d3902be44cc8fb4d8b38e771228bde5bc316c1993'}
   - {seq: 2, filename: KR3ef010_002.yaml, hash: 'sha256:3133732b03422d5d3e9f58a99cd16f58253fb9ae26004189088408eed9e0a34b'}
   - {seq: 3, filename: KR3ef010_003.yaml, hash: 'sha256:ae885f1aad225804ae288c6fefcba804ec08c8a6a178250e6ca3e67d81d357fd'}
@@ -41,7 +41,7 @@ assets:
   - {seq: 21, filename: KR3ef010_021.yaml, hash: 'sha256:c9e5f12d023ebb244e0c55249712b06a41ddb7ebf05c29d57db46f007fdff42a'}
   - {seq: 22, filename: KR3ef010_022.yaml, hash: 'sha256:de8b7f7ae0484ea4221a91861b7e24303e691ce86715c728058ee42b40e27de2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef010_000.markers.yaml, hash: 'sha256:c9df13041fd592903beafe497e71eaee6d310df4c862b1e53ce4e638a4ed0908'}
+  - {seq: 0, role: markers, filename: assets/KR3ef010_000.markers.yaml, hash: 'sha256:1f8e6bcf8d34bdcdfa0451451db0fa159571e57b9ced7c705566e42c5da86cbd'}
   - {seq: 1, role: markers, filename: assets/KR3ef010_001.markers.yaml, hash: 'sha256:22e7c9d2d986a17bfb4902e3aee54c777ce19b76355b6c0b4bc3c555bdf00d19'}
   - {seq: 2, role: markers, filename: assets/KR3ef010_002.markers.yaml, hash: 'sha256:2bf7fec8d54513a81865f30ba50439b6f127ef05e21a11e667713bcad28fc06e'}
   - {seq: 3, role: markers, filename: assets/KR3ef010_003.markers.yaml, hash: 'sha256:24f23e903ce543ce35a55dc40821468c6df0775d51372320bea054bb3a70d008'}
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef010_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 714
   label: 序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef010_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 714
     - 2250
   label: 序
@@ -325,7 +325,7 @@ table_of_contents:
   label: 卷第二十二
   type: section
   level: 1
-hash: sha256:acd0b6160a06581ccb54c245b0a0640b4aa0ccc680a6287b3d40af6fa8bc3a0f
+hash: sha256:9b60175408036387d701bee7bbd549b03b446b9f01ae5eb8a4889f8d8d7cbd95
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
